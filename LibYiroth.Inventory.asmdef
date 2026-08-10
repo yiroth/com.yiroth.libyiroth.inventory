@@ -1,6 +1,6 @@
 {
-    "name": "LibYiroth.Inventory",
-    "rootNamespace": "LibYiroth.Inventory",
+    "name": "Ashrose.Inventory",
+    "rootNamespace": "Ashrose.Inventory",
     "references": [
         "GUID:a5a511adc6762ea4b999421f0be7b855",
         "GUID:4703e8c27ee5a1d4f8bae7178ed17962",
