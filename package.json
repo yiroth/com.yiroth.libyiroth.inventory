@@ -1,11 +1,11 @@
 {
-  "name": "com.yiroth.libyiroth.inventory",
-  "displayName": "LibYiroth - Inventory",
+  "name": "com.ashrose.inventory",
+  "displayName": "Ashrose - Inventory",
   "author": {
-    "name": "yiroth"
+    "name": "rosimelade"
   },
-  "version": "0.0.1",
-  "unity": "6000.3",
-  "description": "LibYiroth, Inventory",
+  "version": "0.0.2",
+  "unity": "6000.5",
+  "description": "Ashrose, Inventory",
   "relatedPackages": {}
 }
